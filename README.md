@@ -32,7 +32,7 @@ bun start
 - Claim Faucet: https://faucet.octra.network/
 - Visit: https://github.com/octra-labs/octra_pre_client
 - Select `Open with Codespaces` then click `New codespace`
-- Give some time to load then page
+- Give some time to load the page.
 
 ### Dependencies installation
 ```javascript
@@ -49,6 +49,6 @@ cp wallet.json.example wallet.json
 python cli.py send --to your octra wallet --amount 0.01
 ```
 
-- That's it, complete minimum 10 trsnasactions.
+- That's it, complete minimum 10 transactions.
 - Watch video guide on X
   
