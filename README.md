@@ -50,5 +50,5 @@ python cli.py send --to your octra wallet --amount 0.01
 ```
 
 - That's it, complete minimum 10 transactions.
-- Watch video guide on X
+- Watch video guide on X: https://x.com/Mr_wendrop/status/1939673484373917976
   
